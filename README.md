@@ -1,3 +1,10 @@
+# Please install this plugins in order to run the project
+
+npm install @mui/material @emotion/react @emotion/styled
+
+npm install axios react-bootstrap bootstrap
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
